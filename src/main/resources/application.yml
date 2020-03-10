@@ -13,3 +13,9 @@ server:
   port: 8082
 spring:
   profiles: test
+
+---
+server:
+  port: 8883
+spring:
+  profiles: te
